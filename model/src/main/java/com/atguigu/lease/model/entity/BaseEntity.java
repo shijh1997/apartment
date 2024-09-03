@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 @Data
-public class BaseEntity implements Serializable {
+public abstract class BaseEntity implements Serializable {
 
     @Schema(description = "主键")
     @TableId(value = "id", type = IdType.AUTO)

@@ -33,6 +33,6 @@ springdoc:
 
 aliyun:
   sms:
-    access-key-id: LTAI5tLYWGQzqHwK4YKPffDZ
-    access-key-secret: 56fmghSlJ9DCrBsRonDX71v6DIrkwr
+    access-key-id: ***************
+    access-key-secret: ************
     endpoint: dysmsapi.aliyuncs.com
